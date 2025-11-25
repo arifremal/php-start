@@ -1,0 +1,17 @@
+{
+    "name": "arifremal/composer",
+    "autoload": {
+        "psr-4": {
+            "Arifremal\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ariful Islam",
+            "email": "remalarif0130@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
